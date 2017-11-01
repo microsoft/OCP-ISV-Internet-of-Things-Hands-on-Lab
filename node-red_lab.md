@@ -13,7 +13,7 @@ With this step-by-step lab you will work with a Node RED instance inside an Inte
 
 ## More
 
-You can run Node-RED in many platforms, including Azure in a VM: https://nodered.org/docs/platforms/azure or even better in a [Web App](https://github.com/jmservera/node-red-azure-webapp) clicking this button...
+You can run Node-RED in many platforms, including [Azure in a VM](https://nodered.org/docs/platforms/azure) or even better in a [Web App](https://github.com/jmservera/node-red-azure-webapp) clicking this button...
 
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fjmservera%2Fnode-red-azure-webapp%2Fmaster%2Fwebapp.json" target="_blank"><img src="http://azuredeploy.net/deploybutton.png"/></a>
 
